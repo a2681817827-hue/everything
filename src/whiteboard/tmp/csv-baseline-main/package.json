@@ -29,7 +29,7 @@
     "fake-indexeddb": "^6.2.5",
     "jsdom": "^26.1.0",
     "prettier": "^3.9.9",
-    "vite": "^7.3.1"
+    "vite": "^7.3.7"
   },
   "engines": {
     "node": ">=22.12.0"
